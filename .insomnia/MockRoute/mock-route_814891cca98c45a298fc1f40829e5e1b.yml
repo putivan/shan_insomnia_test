@@ -1,0 +1,12 @@
+_id: mock-route_814891cca98c45a298fc1f40829e5e1b
+type: MockRoute
+parentId: mock_d13c3dc3b912472eb34b172fa9d0ee69
+modified: 1736548618363
+created: 1736548598419
+body: Jan
+headers: []
+statusCode: 200
+statusText: ""
+name: /month
+mimeType: text/plain
+method: GET
