@@ -1,0 +1,21 @@
+_id: mock-route_6b0ab1a34dd34bd1a3c53a4f6d2d4cfa
+type: MockRoute
+parentId: mock_d13c3dc3b912472eb34b172fa9d0ee69
+modified: 1736547242714
+created: 1736546354825
+body: |-
+  {
+    "name": "shan",
+  	"age": "100"
+  }
+headers:
+  - id: pair_d0698199ad0e402e9dc4b07cc1197fcd
+    name: name
+    value: shan
+    description: ""
+    disabled: false
+statusCode: 200
+statusText: ""
+name: /user
+mimeType: application/json
+method: GET

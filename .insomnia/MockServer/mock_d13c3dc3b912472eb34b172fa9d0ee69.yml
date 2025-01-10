@@ -1,0 +1,8 @@
+_id: mock_d13c3dc3b912472eb34b172fa9d0ee69
+type: MockServer
+parentId: wrk_7e3416f6964748c9bbe1d8b1f8b6621b
+modified: 1736546270985
+created: 1736546270985
+name: mock_cloud_proj
+url: http://localhost:8080
+useInsomniaCloud: false
