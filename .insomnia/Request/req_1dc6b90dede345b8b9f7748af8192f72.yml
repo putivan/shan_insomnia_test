@@ -1,0 +1,26 @@
+_id: req_1dc6b90dede345b8b9f7748af8192f72
+type: Request
+parentId: wrk_64fd9ced63794c1d978d1b14026b767e
+modified: 1736548821060
+created: 1736548805595
+url: https://httpbin.org/anything
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/10.3.0
+authentication: {}
+preRequestScript: null
+metaSortKey: -1736548805595
+isPrivate: false
+pathParameters: []
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
