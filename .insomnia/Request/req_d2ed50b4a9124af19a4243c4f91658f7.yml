@@ -1,10 +1,10 @@
-_id: req_1dc6b90dede345b8b9f7748af8192f72
+_id: req_d2ed50b4a9124af19a4243c4f91658f7
 type: Request
-parentId: wrk_64fd9ced63794c1d978d1b14026b767e
-modified: 1736548821060
-created: 1736548805595
-url: https://httpbin.org/anything
-name: New Request
+parentId: wrk_17ea862da2974b43a24b45487b1bcdbb
+modified: 1739316027901
+created: 1739316002043
+url: https://example.com
+name: shan_test_request_git_sync
 description: ""
 method: GET
 body: {}
@@ -14,7 +14,7 @@ headers:
     value: insomnia/10.3.0
 authentication: {}
 preRequestScript: null
-metaSortKey: -1736548805595
+metaSortKey: -1739316002043
 isPrivate: false
 pathParameters: []
 afterResponseScript: null
